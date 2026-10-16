@@ -1,0 +1,16 @@
+Data and code citation metadata
+
+Authors: Zhongshuai Li, Yue Song, Yuxin Yan, Zhenhua Fan, Nanjie Zhou, Longhang Zhou, Zhejie Meng
+Year: 2026
+Title: Sparse commissioning of four-circuit classroom lighting data and code
+Version: BSERT-CODE-20261016-C18-MODEL
+Affiliation: School of Energy and Power Engineering, Changchun Institute of Technology, Changchun 130012, China
+Corresponding author: Yue Song
+Email: yue_song@live.cn
+ORCID: https://orcid.org/0009-0008-7104-5368
+Repository: ________________________________
+Persistent DOI or URL: ________________________________
+Related article: Effects of commissioning with sparse measurement points on the performance of four-circuit lighting control in existing classrooms
+Article DOI: ________________________________
+
+Author identities were supplied by the corresponding researcher. Repository links, identifiers and licences remain unassigned. No article acceptance or DOI is asserted.

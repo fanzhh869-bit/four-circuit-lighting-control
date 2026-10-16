@@ -1,0 +1,7 @@
+Licensing status
+
+Software licence: ________________________________
+Data licence: ________________________________
+Rights holder: ________________________________
+
+No reuse or redistribution licence has been assigned in this preparation. The author or rights holder selects the appropriate software and data licences before public deposition. Third-party libraries retain their own licences; they are installed through requirements files and are not redistributed here. Times New Roman font files are not included. The original hardware photograph is retained unchanged.
