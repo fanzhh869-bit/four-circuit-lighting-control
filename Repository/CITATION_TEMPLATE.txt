@@ -3,7 +3,7 @@ Data and code citation metadata
 Authors: Zhongshuai Li, Yue Song, Yuxin Yan, Zhenhua Fan, Nanjie Zhou, Longhang Zhou, Zhejie Meng
 Year: 2026
 Title: Sparse commissioning of four-circuit classroom lighting data and code
-Version: BSERT-CODE-20261016-C19
+Version: BSERT-CODE-20261016-C20
 Affiliation: School of Energy and Power Engineering, Changchun Institute of Technology, Changchun 130012, China
 Corresponding author: Yue Song
 Email: yue_song@live.cn

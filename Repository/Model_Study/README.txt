@@ -2,9 +2,9 @@ Numerical and replay supplement
 This subproject supplies the supplementary optical and replay analyses, not the primary observed endpoints. Run its commands from this Model_Study directory. See ../README.txt for the observation-led entry point.
 
 Sparse commissioning of four-circuit classroom lighting
-Code and data release BSERT-CODE-20261016-C19-MODEL
+Code and data release BSERT-CODE-20261016-C20-MODEL
 
-This archive accompanies Effects of commissioning with sparse measurement points on the performance of four-circuit lighting control in existing classrooms, manuscript release BSERT-SUBMISSION-20261016-S16. It provides fixed analysis inputs, reproducible calculations and a single supported command line.
+This archive accompanies Effects of commissioning with sparse measurement points on the performance of four-circuit lighting control in existing classrooms, manuscript release BSERT-SUBMISSION-20261016-S17. It provides fixed analysis inputs, reproducible calculations and a single supported command line.
 
 Quick start
 Use Python 3.12. From this Model_Study directory:
@@ -47,9 +47,6 @@ Study/auxiliary_diagnostics supplies the absolute-residual daylight comparator r
 
 Publication label mapping
 documentation/publication_code_aliases.csv maps the stored DU code in the numerical analysis and model-supplement Figure M6 to DZU with global repair, and lists the spatial-layout and model labels. Stored numerical and categorical values are retained.
-
-Development assistance
-OpenAI Codex assisted drafting, translation, code development and data visualisation. The analysis outputs were checked using the archived verification routines.
 
 Stored comparison labels
 In the common-reference binning comparison, the stored family codes legacy and current denote uniform-margin and task-metric protection, respectively. They are algorithm-family labels, not manuscript versions. Their mappings are recorded in documentation/publication_code_aliases.csv. The stored CSV values and NPZ keys are retained for exact reproduction.

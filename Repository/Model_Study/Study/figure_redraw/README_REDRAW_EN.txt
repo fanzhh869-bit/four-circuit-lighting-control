@@ -1,4 +1,4 @@
-Offline figure redraw toolkit | BSERT-CODE-20261016-C19-MODEL
+Offline figure redraw toolkit | BSERT-CODE-20261016-C20-MODEL
 
 Read ../README_DATA_CODE_EN.txt for the analysis roles of these data and figures.
 redraw_all.py reads the exact plotting tables in data/ and the common figure_style.json. It does not run the study or import the control-analysis modules. Install requirements.txt and Times New Roman before drawing.
